@@ -1,12 +1,9 @@
-# Getting Started with Create React App
+# A todo list app created with react
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## 1. run 'npm install'
 
-## Available Scripts
+## 2. run 'npm start'
 
-In the project directory, you can run:
+### Runs the app in the development mode.\
 
-### `npm start`
-
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+###Open [http://localhost:3000](http://localhost:3000) to view it in the browser.

@@ -51,7 +51,6 @@ function App() {
       <header>
         <h1>Daniel's Todo List</h1>
       </header>
-      <h2>{inputText}</h2>
       <Form todos={todos} setTodos={setTodos} setInputText={setInputText}  inputText={inputText} setStatus={setStatus} />
       <TodoList filteredTodos={filteredTodos} setTodos={setTodos} />
     </div>
